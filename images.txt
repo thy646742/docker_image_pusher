@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 
 pytorch/pytorch:2.6.0-cuda12.4-cudnn9-devel
+ghcr.io/jellyfin/jellyfin:latest
